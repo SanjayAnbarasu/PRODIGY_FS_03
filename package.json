@@ -1,5 +1,5 @@
 {
-  "name": "orebishop",
+  "name": "e-commerceapplication",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -50,5 +50,10 @@
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.20",
     "tailwindcss": "^3.2.4"
-  }
+  },
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
